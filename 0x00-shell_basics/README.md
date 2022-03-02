@@ -6,3 +6,4 @@ Fifth script prints all directory contents including those starting with a perio
 Sixth script displays contents in long format including hidden files and displays user and group ids numerically
 Seventh script creates the first directory
 Eighth script moves a file
+Ninth script deletes file
