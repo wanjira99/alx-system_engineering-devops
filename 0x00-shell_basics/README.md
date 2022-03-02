@@ -16,3 +16,4 @@ Fifteenth script copies html files
 Sixteenth file moves all files starting with an uppercase letter
 Seventeenth script deletes files with the specified format
 Eighteenth script creates multiple directories
+Nineteenth file lists all files and directories separated by a comma
