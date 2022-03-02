@@ -14,3 +14,4 @@ Thirteenth script prints the type of file
 Fourteenth script creates a symbolic link
 Fifteenth script copies html files
 Sixteenth file moves all files starting with an uppercase letter
+Seventeenth script deletes files with the specified format
