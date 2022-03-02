@@ -7,3 +7,4 @@ Sixth script displays contents in long format including hidden files and display
 Seventh script creates the first directory
 Eighth script moves a file
 Ninth script deletes file
+Tenth script deletes directory
