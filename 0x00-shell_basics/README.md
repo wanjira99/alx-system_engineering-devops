@@ -10,3 +10,4 @@ Ninth script deletes file
 Tenth script deletes directory
 Eleventh script returns working directory to the previous one
 Twelfth script lists the files in the current and boot directory in long format
+Thirteenth script prints the type of file
