@@ -9,3 +9,4 @@ Additional permissions
 Multiple permissions
 Setting file mode
 Mirror permissins
+Subdirectory permissions
