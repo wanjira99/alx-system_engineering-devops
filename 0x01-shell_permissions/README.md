@@ -13,3 +13,4 @@ Subdirectory permissions
 Directory permissions
 Changing group ownership
 Chnging onwer and group
+Symbolic link permissions
