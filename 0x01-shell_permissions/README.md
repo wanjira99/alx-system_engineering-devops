@@ -6,3 +6,4 @@ Creating empty file
 Adding execute permission
 Adding multiple permissions
 Additional permissions
+Multiple permissions
