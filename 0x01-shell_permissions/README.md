@@ -11,3 +11,4 @@ Setting file mode
 Mirror permissins
 Subdirectory permissions
 Directory permissions
+Changing group ownership
