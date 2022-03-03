@@ -4,3 +4,4 @@ Printing all the groups the current user is part of
 Changing file owner
 Creating empty file
 Adding execute permission
+Adding multiple permissions
